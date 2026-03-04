@@ -8,3 +8,4 @@ function sum(num1, num2) {
 console.log(sum(2, 5));
 
 console.log("Pull");
+console.log("pill")
